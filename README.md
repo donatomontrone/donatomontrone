@@ -4,7 +4,7 @@
 
 </br>
 
-### <div align="center">I'm Donato, a Junior Full Stack Web Developer 👨‍💻</div>  
+### <div align="center">I'm Donato, a Junior Full Stack Web Developer | Junior Java Developer 👨‍💻</div>  
 
 ## My Skill Set 
 
