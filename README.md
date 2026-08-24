@@ -4,20 +4,19 @@
 
 </br>
 
-### <div align="center">I'm Donato, a Junior Java Developer 👨‍💻</div>  
+### <div align="center">I'm Donato, a Java Developer 👨‍💻</div>  
 
 ## My Skill Set 
 
 <div align="left"><h3>Language<h/3></div>
 
-<div>
+<div >
 </br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="55px"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="39px">&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="Sass" width="50px">&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="60px">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="55px"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3" width="55px">&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/download/184143/java.svg" alt="Java" width="50px">&nbsp;&nbsp;
-  <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" alt="MySQL" width="60px">&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="80px">&nbsp;&nbsp;
+  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" width="50px">&nbsp;&nbsp;
 </div>
 <br/>  
 <div align="left"><h3>Frameworks<h/3></div>
@@ -25,27 +24,20 @@
 <div>
 </br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="48px">&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="45px">&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" alt="Spring" width="45px">&nbsp;
 </div>
 <br/>  
 <div align="left"><h3>Tools<h/3></div>
 <div>
   </br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" width="45px">&nbsp;
-    <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" width="45px">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="45px">&nbsp;
-    <img src="https://www.mamp.info/images/icons/mamp.png" alt="MAMP" width="45px">&nbsp;
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45px">&nbsp;
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="45px">&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/330px-Slack_icon_2019.svg.png" alt="Slack" width="45px">&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="45px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="45px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" alt="Intellij Idea" width="45px">
   
 </div>
 <br/>  
-
-## Stats
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=donatomontrone&show_icons=true&locale=en&layout=compact&theme=dark" alt="donatomontrone" />
-<img src="https://github-readme-stats.vercel.app/api?username=donatomontrone&show_icons=true&theme=dark" alt="donatomontrone" />
 
   
 ## Connect with me  
